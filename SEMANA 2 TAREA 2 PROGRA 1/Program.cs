@@ -45,7 +45,7 @@ namespace TAREA_2_PROGRA_1
             //EJERCICIO NUMERO 3 SUMA Y RESTA DE 2 NUMEROS GRANDES
             long num1, num2, suma, resta, producto;
 
-            Console.WriteLine("¿INGRESA   UN   NUMERO QUE QUIERAS?");
+            Console.WriteLine("¿INGRESA   UN   NUMERO GRANDE?");
             num1 = long.Parse(Console.ReadLine());
 
             Console.WriteLine("¿INGRESA   OTRO   NUMERO GRANDE?");
