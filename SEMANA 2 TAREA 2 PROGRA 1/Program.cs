@@ -37,7 +37,7 @@ namespace TAREA_2_PROGRA_1
             resultado = Convert.ToUInt16(n1 * n2);
 
 
-            Console.WriteLine("EL RESULTADO ES {0}", resultado);
+            Console.WriteLine("EL RESULTADO DE ESTA OPERACION ES {0}", resultado);
             Console.WriteLine("PRESIONE ENTER PARA CONTINUAR");
             Console.ReadKey();
 
@@ -45,7 +45,7 @@ namespace TAREA_2_PROGRA_1
             //EJERCICIO NUMERO 3 SUMA Y RESTA DE 2 NUMEROS GRANDES
             long num1, num2, suma, resta, producto;
 
-            Console.WriteLine("¿INGRESA   UN   NUMERO GRANDE?");
+            Console.WriteLine("¿INGRESA   UN   NUMERO QUE QUIERAS?");
             num1 = long.Parse(Console.ReadLine());
 
             Console.WriteLine("¿INGRESA   OTRO   NUMERO GRANDE?");
