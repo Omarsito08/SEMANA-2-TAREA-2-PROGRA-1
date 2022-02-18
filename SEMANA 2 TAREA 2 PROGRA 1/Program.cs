@@ -9,7 +9,7 @@ namespace TAREA_2_PROGRA_1
 
             // EJERCICIO NUMERO 1 PEDIR LA EDAD ALL USUARIO
             byte edad, calculo;
-            Console.WriteLine("¿CUAL ES TU EDAD?");
+            Console.WriteLine("¿CUANTOS AÑOS TIENES?");
             edad = byte.Parse(Console.ReadLine());
 
             calculo = edad;
