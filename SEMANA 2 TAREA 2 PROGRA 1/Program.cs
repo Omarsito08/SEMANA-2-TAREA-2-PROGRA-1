@@ -24,10 +24,10 @@ namespace TAREA_2_PROGRA_1
             //EJERCICIO NUMERO 2 PEDIR DOS NUMEROS Y MULTIPLICARLOS
             byte n1, n2, mult;
 
-            Console.WriteLine("¿INGRESA   UN   NUMERO?");
+            Console.WriteLine("¿INGRESA   CUALQUIER   NUMERO?");
             n1 = Convert.ToByte(Console.ReadLine());
 
-            Console.WriteLine("¿INGRESA   OTRO NUMERO?");
+            Console.WriteLine("¿INGRESA   OTRO NUMERO QUE QUIERAS?");
             n2 = Convert.ToByte(Console.ReadLine());
 
             mult = (byte)(n1 * n2);
