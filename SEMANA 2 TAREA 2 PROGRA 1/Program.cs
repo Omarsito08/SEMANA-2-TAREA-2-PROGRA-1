@@ -15,7 +15,7 @@ namespace TAREA_2_PROGRA_1
             calculo = edad;
 
 
-            Console.WriteLine("NO APARENTAS {0}", calculo);
+            Console.WriteLine("OYE PERO NO APARENTAS {0}", calculo);
 
             Console.WriteLine("PRESIONE ENTER PARA CONTINUAR");
             Console.ReadKey();
