@@ -17,7 +17,7 @@ namespace TAREA_2_PROGRA_1
 
             Console.WriteLine("OYE PERO NO APARENTAS {0}", calculo);
 
-            Console.WriteLine("PRESIONE ENTER PARA CONTINUAR");
+            Console.WriteLine("PRESIONE UNA TECLA PARA CONTINUAR");
             Console.ReadKey();
 
 
